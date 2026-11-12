@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hospital Landing Page
 
 🏥 Welcome to the Hospital Landing Page project, built with React.js, TypeScript, and Tailwind CSS. This modern and responsive landing page is designed for hospitals and healthcare institutions to showcase their services and provide essential information to visitors.
@@ -19,3 +20,7 @@
 Explore the codebase and documentation to get started with your Hospital Landing Page project today!
 
 🌐 Live Demo: https://medical-website-pearl.vercel.app/
+=======
+# Medical_Website
+A modern, fully responsive hospital Medical Website built with React.js, TypeScript, and Tailwind CSS to showcase healthcare services and deliver an intuitive user experience.
+>>>>>>> 378fcde93b8da839ccf8d40464f1228df89def3a
